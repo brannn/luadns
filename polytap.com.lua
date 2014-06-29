@@ -1,7 +1,7 @@
 -- polytap.com
 -- _a = mydomain.com
 ttl = 300
-fred_addr = "23.92.53.85"
+fred_addr = "192.241.254.112"
 
 a(_a, fred_addr, ttl)
 
