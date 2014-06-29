@@ -19,5 +19,5 @@ mx(_a, "mx-2.rightbox.com", 10)
 mx(_a, "mx-3.rightbox.com", 10)
 
 -- SSHFP records
-sshfp("fred", 1, "5b41710c8ffe9ba704f50a434df320746ee0f0f7")
-sshfp("fred", 2, "ddb69f56419c0c02c8d89867d7965b9251f29c85")
+sshfp("fred.stylograph.net", 1, "5b41710c8ffe9ba704f50a434df320746ee0f0f7")
+sshfp("fred.stylograph.net", 2, "ddb69f56419c0c02c8d89867d7965b9251f29c85")
