@@ -10,8 +10,6 @@ a("fred", fred_addr, ttl)
  
 -- CNAME records
 cname("www", "fred.breidh.net", ttl)
-cname("cdb", "global.prod.fastly.net", ttl)
-cname("api", "global.prod.fastly.net", ttl)
 
 -- MX records
 mx(_a, "mx-1.rightbox.com", 10)
