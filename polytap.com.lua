@@ -1,7 +1,7 @@
 -- polytap.com
 -- _a = mydomain.com
 ttl = 300
-juno_addr = "166.78.254.137"
+juno_addr = "172.31.13.243"
 
 a(_a, juno_addr, ttl)
 
