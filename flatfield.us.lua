@@ -1,7 +1,7 @@
 -- flatfield.us
 -- _a = mydomain.com
 ttl = 300
-juno_addr = "10.10.10.10"
+juno_addr = "52.0.197.109"
 
 a(_a, juno_addr, ttl)
 
@@ -9,7 +9,7 @@ a(_a, juno_addr, ttl)
 a("juno", juno_addr, ttl)
  
 -- CNAME records
-cname("www", "juno.polytap.com", ttl)
+cname("www", "juno.flatfield.us", ttl)
 
 -- MX records
 mx(_a, "mx-1.rightbox.com", 10)
